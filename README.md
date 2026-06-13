@@ -13,7 +13,7 @@ Funkcje:
 Aplikacja używana lokalnie do integracji z Allegro REST API.
 
 Technologie:
--Python
--Allegro REST API
+- Python
+- Allegro REST API
 
 Kontakt: klik22@int.pl
